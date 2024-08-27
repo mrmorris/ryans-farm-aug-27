@@ -1,4 +1,7 @@
-# My Cat
+# Magic Cat
 
-* Type: Calico
-* Sound: Meow
+---
+
+* Type: Tuxedo
+* Sound: PURRRR
+* Legs: 4

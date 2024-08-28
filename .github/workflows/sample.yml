@@ -46,6 +46,8 @@ jobs:
 
     needs: build
 
+    environment: production
+
     steps:
       - uses: actions/checkout@v4
 
